@@ -1,0 +1,83 @@
+2024-03-11 13:11:57 [main] INFO  Listener:14 - --------------------------------- Test Execution Started ---------------------------------
+2024-03-11 13:11:57 [main] INFO  Listener:14 - --------------------------------- Driver Setup Started ---------------------------------
+2024-03-11 13:12:47 [main] INFO  Listener:14 - --------------------------------- Driver Setup Completed ---------------------------------
+2024-03-11 13:12:47 [main] INFO  Listener:14 - testAddStainlessTableToCart: Test started
+2024-03-11 13:12:47 [main] INFO  Listener:34 - ------------------Test Case 'testAddStainlessTableToCart' started------------------
+2024-03-11 13:13:43 [main] INFO  Listener:14 - Products title in page 1 are validated successfully
+2024-03-11 13:14:08 [main] INFO  Listener:14 - Products title in page 2 are validated successfully
+2024-03-11 13:14:42 [main] INFO  Listener:14 - Products title in page 3 are validated successfully
+2024-03-11 13:15:04 [main] INFO  Listener:14 - Products title in page 4 are validated successfully
+2024-03-11 13:15:51 [main] ERROR Listener:22 - testAddStainlessTableToCart : Test Failed : Index 41 out of bounds for length 0
+2024-03-11 13:15:51 [main] INFO  Listener:14 - testAddWoodTableToCart: Test started
+2024-03-11 13:15:51 [main] INFO  Listener:52 - ------------------Test Case 'testAddWoodTableToCart' started------------------
+2024-03-11 13:16:13 [main] ERROR Listener:22 - Product title Steelton Wood Top Work Cart with Stainless Steel Base and Undershelves - 32" x 20" x 35 in page 1 doesn't contain Table : Verification Failed
+2024-03-11 13:16:19 [main] INFO  Listener:14 - Products title in page 1 are validated successfully
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. Cucina Elegante 30 3/4" x 20" Maple Kitchen Cart with Double Drop Leaf CUCE50 in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. RN-PPB3624C-D 36" x 24" Cherry Pro Prep Block with Undershelf, Drawer, Pot Hooks and Casters in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. AA02 24" x 24" AA Maple Butcher Block in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. Cucina Culinarte 30" x 20" Maple Cart with Removable Cutting Board CU-CULART30 in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. MET-MWC-1 Metropolitan 21" x 27" Two-Shelf Chrome Wire Utility Cart with Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. Deluxe Culi 48" x 24" Maple cart with Drop Leaf QCL in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:36 [main] ERROR Listener:22 - Product title John Boos & Co. CUFC-M1830 18 1/8" x 30" Two-Shelf Stainless Steel Formaggio Cart with Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:37 [main] ERROR Listener:22 - Product title John Boos & Co. MET-MWC-2 Metropolitan 27" x 33" Two-Shelf Chrome Wire Utility Cart with Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:37 [main] ERROR Listener:22 - Product title John Boos & Co. MET-WWC-1 Metropolitan 21" x 27" Two-Shelf Chrome Wire Utility Cart with Walnut Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:16:37 [main] INFO  Listener:14 - Products title in page 2 are validated successfully
+2024-03-11 13:16:51 [main] INFO  Listener:14 - Products title in page 3 are validated successfully
+2024-03-11 13:17:02 [main] INFO  Listener:14 - Products title in page 4 are validated successfully
+2024-03-11 13:17:15 [main] INFO  Listener:14 - Products title in page 5 are validated successfully
+2024-03-11 13:17:26 [main] INFO  Listener:14 - Products title in page 6 are validated successfully
+2024-03-11 13:17:39 [main] INFO  Listener:14 - Products title in page 7 are validated successfully
+2024-03-11 13:17:51 [main] INFO  Listener:14 - Products title in page 8 are validated successfully
+2024-03-11 13:18:02 [main] ERROR Listener:22 - Product was not added to the cart
+2024-03-11 13:18:04 [main] INFO  Listener:61 - ------------------Test Case 'testAddWoodTableToCart' completed------------------
+2024-03-11 13:18:04 [main] INFO  Listener:14 - testAddWoodTableToCart : Test Passed
+2024-03-11 13:18:04 [main] INFO  Listener:14 - Total number of testcases : 2
+2024-03-11 13:18:04 [main] INFO  Listener:14 - Number of testcases Passed : 1
+2024-03-11 13:18:04 [main] INFO  Listener:14 - Number of testcases Failed : 1
+2024-03-11 13:18:04 [main] INFO  Listener:14 - Number of testcases Skipped  : 0
+2024-03-11 13:18:04 [main] INFO  Listener:14 - --------------------------------- Test Execution Completed ---------------------------------
+2024-03-11 13:18:29 [main] INFO  Listener:14 - --------------------------------- Test Execution Started ---------------------------------
+2024-03-11 13:18:30 [main] INFO  Listener:14 - --------------------------------- Driver Setup Started ---------------------------------
+2024-03-11 13:18:37 [main] INFO  Listener:14 - --------------------------------- Driver Setup Completed ---------------------------------
+2024-03-11 13:18:37 [main] INFO  Listener:14 - testAddStainlessTableToCart: Test started
+2024-03-11 13:18:37 [main] INFO  Listener:34 - ------------------Test Case 'testAddStainlessTableToCart' started------------------
+2024-03-11 13:19:18 [main] INFO  Listener:14 - Products title in page 1 are validated successfully
+2024-03-11 13:19:32 [main] INFO  Listener:14 - Products title in page 2 are validated successfully
+2024-03-11 13:19:46 [main] INFO  Listener:14 - Products title in page 3 are validated successfully
+2024-03-11 13:20:01 [main] INFO  Listener:14 - Products title in page 4 are validated successfully
+2024-03-11 13:20:15 [main] INFO  Listener:14 - Products title in page 5 are validated successfully
+2024-03-11 13:20:29 [main] INFO  Listener:14 - Products title in page 6 are validated successfully
+2024-03-11 13:20:40 [main] ERROR Listener:22 - Product title Metro CR2430DSS Drive-Thru Order Prep Station with Stainless Steel Shelving - 31 3/4" x 27 3/4" x 65 3/4" in page 7 doesn't contain Table : Verification Failed
+2024-03-11 13:20:43 [main] INFO  Listener:14 - Products title in page 7 are validated successfully
+2024-03-11 13:20:55 [main] INFO  Listener:14 - Products title in page 8 are validated successfully
+2024-03-11 13:21:03 [main] ERROR Listener:22 - Product was not added to the cart
+2024-03-11 13:21:05 [main] INFO  Listener:43 - ------------------Test Case 'testAddStainlessTableToCart' completed------------------
+2024-03-11 13:21:05 [main] INFO  Listener:14 - testAddStainlessTableToCart : Test Passed
+2024-03-11 13:21:05 [main] INFO  Listener:14 - testAddWoodTableToCart: Test started
+2024-03-11 13:21:05 [main] INFO  Listener:52 - ------------------Test Case 'testAddWoodTableToCart' started------------------
+2024-03-11 13:21:26 [main] ERROR Listener:22 - Product title Steelton Wood Top Work Cart with Stainless Steel Base and Undershelves - 32" x 20" x 35 in page 1 doesn't contain Table : Verification Failed
+2024-03-11 13:21:29 [main] INFO  Listener:14 - Products title in page 1 are validated successfully
+2024-03-11 13:21:42 [main] ERROR Listener:22 - Product title John Boos & Co. Cucina Elegante 30 3/4" x 20" Maple Kitchen Cart with Double Drop Leaf CUCE50 in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:42 [main] ERROR Listener:22 - Product title John Boos & Co. RN-PPB3624C-D 36" x 24" Cherry Pro Prep Block with Undershelf, Drawer, Pot Hooks and Casters in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:42 [main] ERROR Listener:22 - Product title John Boos & Co. AA02 24" x 24" AA Maple Butcher Block in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:43 [main] ERROR Listener:22 - Product title John Boos & Co. Cucina Culinarte 30" x 20" Maple Cart with Removable Cutting Board CU-CULART30 in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:43 [main] ERROR Listener:22 - Product title John Boos & Co. MET-MWC-1 Metropolitan 21" x 27" Two-Shelf Chrome Wire Utility Cart with Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:43 [main] ERROR Listener:22 - Product title John Boos & Co. Deluxe Culi 48" x 24" Maple cart with Drop Leaf QCL in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:43 [main] ERROR Listener:22 - Product title John Boos & Co. CUFC-M1830 18 1/8" x 30" Two-Shelf Stainless Steel Formaggio Cart with Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:43 [main] ERROR Listener:22 - Product title John Boos & Co. MET-MWC-2 Metropolitan 27" x 33" Two-Shelf Chrome Wire Utility Cart with Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:43 [main] ERROR Listener:22 - Product title John Boos & Co. MET-WWC-1 Metropolitan 21" x 27" Two-Shelf Chrome Wire Utility Cart with Walnut Wood Top in page 2 doesn't contain Table : Verification Failed
+2024-03-11 13:21:44 [main] INFO  Listener:14 - Products title in page 2 are validated successfully
+2024-03-11 13:21:56 [main] INFO  Listener:14 - Products title in page 3 are validated successfully
+2024-03-11 13:22:12 [main] INFO  Listener:14 - Products title in page 4 are validated successfully
+2024-03-11 13:22:28 [main] INFO  Listener:14 - Products title in page 5 are validated successfully
+2024-03-11 13:22:41 [main] INFO  Listener:14 - Products title in page 6 are validated successfully
+2024-03-11 13:22:54 [main] INFO  Listener:14 - Products title in page 7 are validated successfully
+2024-03-11 13:23:07 [main] INFO  Listener:14 - Products title in page 8 are validated successfully
+2024-03-11 13:23:14 [main] ERROR Listener:22 - Product was not added to the cart
+2024-03-11 13:23:16 [main] INFO  Listener:61 - ------------------Test Case 'testAddWoodTableToCart' completed------------------
+2024-03-11 13:23:16 [main] INFO  Listener:14 - testAddWoodTableToCart : Test Passed
+2024-03-11 13:23:16 [main] INFO  Listener:14 - Total number of testcases : 2
+2024-03-11 13:23:16 [main] INFO  Listener:14 - Number of testcases Passed : 2
+2024-03-11 13:23:16 [main] INFO  Listener:14 - Number of testcases Failed : 0
+2024-03-11 13:23:16 [main] INFO  Listener:14 - Number of testcases Skipped  : 0
+2024-03-11 13:23:16 [main] INFO  Listener:14 - --------------------------------- Test Execution Completed ---------------------------------
